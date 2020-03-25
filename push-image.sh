@@ -1,9 +1,9 @@
 #!/bin/bash
 
-ALI_REGISTRY=registry.cn-shenzhen.aliyuncs.com/sync-dockerimage
+ALI_REGISTRY=registry.cn-hongkong.aliyuncs.com/sync-dockerimage/coredns
 
 #config the following env at travis-ui
-docker login registry.cn-shenzhen.aliyuncs.com -u $DOCKER_USER -p $DOCKER_PASSWORD
+docker login registry.cn-hongkong.aliyuncs.com -u $DOCKER_USER -p $DOCKER_PASSWORD
 
 for image in $(cat img-list.txt)
 do
