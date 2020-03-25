@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ALI_REGISTRY=registry.cn-hongkong.aliyuncs.com/sync-dockerimage/coredns
+ALI_REGISTRY=registry.cn-hongkong.aliyuncs.com/sync-dockerimage
 
 #config the following env at travis-ui
 docker login registry.cn-hongkong.aliyuncs.com -u $DOCKER_USER -p $DOCKER_PASSWORD
