@@ -1,0 +1,8 @@
+if: branch =~ ^master$|^test
+language: bash
+services: docker
+
+env:
+  - DOCKER_HUB=aliyun
+script:
+    - bash push-image.sh
