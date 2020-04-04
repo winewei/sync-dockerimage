@@ -7,3 +7,4 @@ k8s.gcr.io/etcd:3.3.15-0
 k8s.gcr.io/coredns:1.6.2
 pristtlt/tomcat:7.0.90
 pristtlt/lnp-base:7.2-fpm-stretch
+k8s.gcr.io/metrics-server-amd64:v0.3.6
