@@ -16,3 +16,4 @@ minio/minio:RELEASE.2020-03-25T07-03-04Z
 plugins/s3-cache
 pristtlt/java-mvn:3.6
 pristtlt/java:1.8
+sonatype/nexus:oss
