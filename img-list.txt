@@ -17,4 +17,5 @@
 #pristtlt/java-mvn:3.6
 #pristtlt/java:1.8
 #sonatype/nexus:oss
-pristtlt/autosecret:v1.0
+#pristtlt/autosecret:v1.0
+pristtlt/autosecret:v1.1
