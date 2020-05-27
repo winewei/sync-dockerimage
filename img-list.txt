@@ -18,4 +18,5 @@
 #pristtlt/java:1.8
 #sonatype/nexus:oss
 #pristtlt/autosecret:v1.0
-pristtlt/autosecret:v1.1
+#pristtlt/autosecret:v1.1
+docker.elastic.co/logstash/logstash:7.7.0
