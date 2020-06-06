@@ -19,4 +19,5 @@
 #sonatype/nexus:oss
 #pristtlt/autosecret:v1.0
 #pristtlt/autosecret:v1.1
-docker.elastic.co/logstash/logstash:7.7.0
+#docker.elastic.co/logstash/logstash:7.7.0
+pristtlt/tomcat:8.5.55
