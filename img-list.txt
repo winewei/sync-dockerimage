@@ -20,4 +20,7 @@
 #pristtlt/autosecret:v1.0
 #pristtlt/autosecret:v1.1
 #docker.elastic.co/logstash/logstash:7.7.0
-pristtlt/tomcat:8.5.55
+#pristtlt/tomcat:8.5.55
+kubernetesui/dashboard:v2.0.0-rc7
+drone/drone-runner-docker:1
+drone/drone:1
