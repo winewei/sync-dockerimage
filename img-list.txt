@@ -24,4 +24,6 @@
 #kubernetesui/dashboard:v2.0.0-rc7
 #drone/drone-runner-docker:1
 #drone/drone:1
-quay.io/external_storage/nfs-client-provisioner:latest
+#quay.io/external_storage/nfs-client-provisioner:latest
+docker.elastic.co/elasticsearch/elasticsearch:7.6.2
+docker.elastic.co/kibana/kibana:7.6.2
