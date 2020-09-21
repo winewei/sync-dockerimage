@@ -30,4 +30,5 @@
 #docker.elastic.co/beats/filebeat:7.6.2
 #redis:5.0-alpine
 #mysql:5.7.30
-containrrr/watchtower
+#containrrr/watchtower
+openresty/openresty:alpine
