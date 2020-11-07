@@ -32,4 +32,5 @@
 #mysql:5.7.30
 #containrrr/watchtower
 #openresty/openresty:alpine
-quay.io/coreos/flannel:v0.12.0-amd64
+#quay.io/coreos/flannel:v0.12.0-amd64
+k8s.gcr.io/metrics-server-amd64:v0.3.6
