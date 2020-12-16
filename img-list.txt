@@ -33,4 +33,7 @@
 #containrrr/watchtower
 #openresty/openresty:alpine
 #quay.io/coreos/flannel:v0.12.0-amd64
-k8s.gcr.io/metrics-server-amd64:v0.3.6
+#k8s.gcr.io/metrics-server-amd64:v0.3.6
+hk01/docker-nginx:v0.4.11
+hk01/docker-nginx:latest
+
