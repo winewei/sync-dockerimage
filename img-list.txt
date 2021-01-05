@@ -37,4 +37,5 @@
 #hk01/docker-nginx:v0.4.11
 #hk01/docker-nginx:latest
 k8s.gcr.io/metrics-server/metrics-server:v0.4.1
+k8s.gcr.io/metrics-server/metrics-server:v0.4.0
 
