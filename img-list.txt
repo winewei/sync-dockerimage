@@ -38,8 +38,9 @@
 #hk01/docker-nginx:latest
 #k8s.gcr.io/metrics-server/metrics-server:v0.4.1
 #k8s.gcr.io/metrics-server/metrics-server:v0.4.0
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0-beta
-quay.io/coreos/kube-state-metrics:v1.9.7
-quay.io/coreos/kube-state-metrics:v1.8.0
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0-beta
+#quay.io/coreos/kube-state-metrics:v1.9.7
+#quay.io/coreos/kube-state-metrics:v1.8.0
+nacos/nacos-server:1.4.1
 
 
