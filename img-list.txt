@@ -42,6 +42,7 @@
 #quay.io/coreos/kube-state-metrics:v1.9.7
 #quay.io/coreos/kube-state-metrics:v1.8.0
 #nacos/nacos-server:1.4.1
-kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:1.1
-kong:2.1
-kong:2.2
+#kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:1.1
+#kong:2.1
+#kong:2.2
+pantsel/konga:0.14.9
