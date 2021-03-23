@@ -46,7 +46,8 @@
 #kong:2.1
 #kong:2.2
 #pantsel/konga:0.14.9
+pantsel/konga:0.14.7
 #quay.io/jetstack/cert-manager-cainjector:v1.2.0
 #quay.io/jetstack/cert-manager-webhook:v1.2.0
 #quay.io/jetstack/cert-manager-controller:v1.2.0
-e2eteam/echoserver:2.2
+#e2eteam/echoserver:2.2
