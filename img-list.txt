@@ -42,7 +42,7 @@
 #quay.io/coreos/kube-state-metrics:v1.9.7
 #quay.io/coreos/kube-state-metrics:v1.8.0
 #nacos/nacos-server:1.4.1
-nacos/nacos-server:1.2.1
+#nacos/nacos-server:1.2.1
 #kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:1.1
 #kong:2.1
 #kong:2.2
@@ -55,3 +55,4 @@ nacos/nacos-server:1.2.1
 #e2eteam/echoserver:2.2
 #docker:20.10-dind
 #docker:19-dind
+openjdk:8-jre-slim
