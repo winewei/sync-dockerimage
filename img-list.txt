@@ -64,5 +64,5 @@
 #docker.elastic.co/kibana/kibana-oss:7.6.2
 #docker.elastic.co/elasticsearch/elasticsearch-oss:7.6.2
 #quay.io/coreos/flannel:v0.14.0
-pristtlt/lnp-base:7.4-v0.1
-pristtlt/lnp-base:8.0-v0.1
+#pristtlt/lnp-base:7.4-v0.1
+pristtlt/lnp-base:8.0-v0.2
