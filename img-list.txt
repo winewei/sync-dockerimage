@@ -69,6 +69,7 @@
 #traefik:v2.4.8
 #pristtlt/lnp-base:7.4-v0.2
 #pristtlt/lnp-base:8.0-v0.2
-node:16.3.0-stretch
-node:12.22.1-stretch
-node:14.17.0-stretch
+#node:16.3.0-stretch
+#node:12.22.1-stretch
+#node:14.17.0-stretch
+datadog/agent:7.25.0
