@@ -72,4 +72,5 @@
 #node:16.3.0-stretch
 #node:12.22.1-stretch
 #node:14.17.0-stretch
-datadog/agent:7.25.0
+#datadog/agent:7.25.0
+quay.io/coreos/etcd:v3.5.0
