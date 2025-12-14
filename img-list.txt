@@ -87,3 +87,7 @@
 #k8s.gcr.io/pause:3.6
 #k8s.gcr.io/etcd:3.5.1-0
 #k8s.gcr.io/coredns/coredns:v1.8.6
+netbirdio/netbird:latest
+netbirdio/netbird:0.60.7
+postgres:17-alpine
+svhd/logto:1.34
